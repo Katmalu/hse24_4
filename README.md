@@ -1,5 +1,9 @@
 # hse24_4
 
+# Collab 
+
+https://colab.research.google.com/drive/1tpwWUQRkXa_yyz9yk4hmGbA9nUsco9WB?usp=sharing
+
 
 ![download (2)](https://github.com/Katmalu/hse24_4/assets/103137801/6d32d1ef-387b-4a77-b384-db00db2cf7bf)
 
